@@ -1,3 +1,3 @@
-## Java sample project used for a canary testing
+## Sample project used for a canary testing of Cheshire PR builds
 
-[![Build status](https://buildcanary.visualstudio.com/CanaryBuilds/_apis/build/status/Cheshire_BuildCanary_Maven)](https://buildcanary.visualstudio.com/CanaryBuilds/_build/latest?definitionId=477)
+
