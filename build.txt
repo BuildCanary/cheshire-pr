@@ -57,3 +57,4 @@
 "Build definition: Trigger-Cheshire-PR-Tester_20181203.1 !" 
 "Build definition: Trigger-Cheshire-PR-Tester_20181204.1 !" 
 "Build definition: Trigger-Cheshire-PR-Tester_20181205.1 !" 
+"Build definition: Trigger-Cheshire-PR-Tester_20181205.2 !" 
