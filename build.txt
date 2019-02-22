@@ -114,3 +114,4 @@
 "Build definition: Trigger-Cheshire-PR-Tester_20190219.1 !" 
 "Build definition: Trigger-Cheshire-PR-Tester_20190220.1 !" 
 "Build definition: Trigger-Cheshire-PR-Tester_20190221.1 !" 
+"Build definition: Trigger-Cheshire-PR-Tester_20190222.1 !" 
