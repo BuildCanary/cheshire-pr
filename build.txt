@@ -551,3 +551,4 @@
 "Build definition: Trigger-Cheshire-PR-Tester_20200602.1 !" 
 "Build definition: Trigger-Cheshire-PR-Tester_20200603.1 !" 
 "Build definition: Trigger-Cheshire-PR-Tester_20200604.1 !" 
+"Build definition: Trigger-Cheshire-PR-Tester_20200605.1 !" 
