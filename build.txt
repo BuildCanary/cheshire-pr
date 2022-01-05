@@ -1127,3 +1127,4 @@ Build definition: %BUILD_BUILDNUMBER% !
 "Build definition: Trigger-Cheshire-PR-Tester_20220102.1 !" 
 "Build definition: Trigger-Cheshire-PR-Tester_20220103.1 !" 
 "Build definition: Trigger-Cheshire-PR-Tester_20220104.1 !" 
+"Build definition: Trigger-Cheshire-PR-Tester_20220105.1 !" 
